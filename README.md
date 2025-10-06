@@ -21,7 +21,7 @@ This project leverages **time-domain and frequency-domain features** extracted f
 
 ## 🔧 Features Extracted
 
-- **MFCC, Delta, Delta-Delta** – Capture spectral patterns and their temporal changes from PSG signals.  
+- **MFCC, Delta MFCC** – Capture spectral patterns and their temporal changes from PSG signals.  
 - **ZCR (Zero-Crossing Rate)** – Measures frequency variations and signal noisiness.  
 - **Other Features** – Time-domain (mean, variance) and frequency-domain (spectral centroid, bandwidth) to summarize signal characteristics for OSA severity classification.
 
