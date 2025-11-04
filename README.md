@@ -1,6 +1,6 @@
 # OSA — Obstructive Sleep Apnea Detection
 
-A deep learning project aimed at **automatically classifying the severity of Obstructive Sleep Apnea (OSA)** using PSG (Polysomnography) signals and cephalometric data.
+A deep learning project aimed at **automatically classifying the severity of Obstructive Sleep Apnea (OSA)** using PSG (Polysomnography) signals.
 
 ---
 
